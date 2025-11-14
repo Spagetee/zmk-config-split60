@@ -1,0 +1,6 @@
+if SHIELD_SPLIT60
+
+config ZMK_KEYBOARD_NAME
+    default "Split60"
+
+endif
