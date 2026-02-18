@@ -53,7 +53,7 @@ RC(4,0) RC(4,1) RC(4,2)     RC(4,3)     RC(4,4)
         label = "ENCODER";
         a-gpios = <&xiao_d 10 (GPIO_ACTIVE_HIGH | GPIO_PULL_UP)>;
         b-gpios = <&xiao_d 9 (GPIO_ACTIVE_HIGH | GPIO_PULL_UP)>;
-        resolution = <90>;
+        resolution = <60>;
         status = "okay";
     };
 
