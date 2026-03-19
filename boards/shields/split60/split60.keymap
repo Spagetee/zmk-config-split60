@@ -19,8 +19,8 @@
 &kp ESCAPE        &kp 1         &kp 2         &kp 3      &kp 4  &kp 5
 &kp ESCAPE        &kp Q         &kp W         &kp E      &kp R  &kp T
 &kp TAB           &kp A         &kp S         &kp D      &kp F  &kp G
-&kp LEFT_SHIFT    &kp Z         &kp X         &kp C      &kp V  &kp B
-&kp LEFT_CONTROL  &kp LEFT_GUI  &kp LEFT_ALT  &kp SPACE  &kp SPACE
+&kp LEFT_SHIFT    &kp Z         &kp X         &kp C      &kp V  
+&kp LEFT_CONTROL  &kp LEFT_GUI  &kp LEFT_ALT  &kp SPACE  
             >;  
 
         };
