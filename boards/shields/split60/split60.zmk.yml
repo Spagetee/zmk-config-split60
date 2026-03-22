@@ -1,6 +1,6 @@
 file_format: "1"
 id: split60
-name: split60
+name: Split60
 type: shield
 url: https://github.com/Spagetee/zmk-config-split60
 requires: [seeeduino_xiao_ble]
