@@ -35,11 +35,11 @@
 
         layer_2 {
             bindings = <
-&trans  &trans         &trans  &trans            &trans  &trans
-&trans  &kp BACKSPACE  &trans  &trans            &trans  &trans
-&trans  &trans         &trans  &trans            &trans  &trans
-&trans  &trans         &trans  &trans            &trans
-&trans  &trans         &trans  &kp K_PLAY_PAUSE
+&trans  &trans          &trans        &trans     &trans  &trans
+&trans  &kp BACKSPACE   &kp UP_ARROW  &trans     &trans  &trans
+&trans  &kp LEFT_ARROW  &kp DOWN      &kp RIGHT  &trans  &trans
+&trans  &trans          &trans        &trans     &trans
+&trans  &trans          &trans        &kp C_PP
             >;
         };
     };
